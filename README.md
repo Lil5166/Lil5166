@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Semashko Sasha @Lil5166
+- 👋 Hi, I’m @Lil5166 Student of "KPI"
 - 👀 I’m interested programming
 - 🌱 I’m currently learning the same progaramming language same as Java, Python
 - 📫 How to reach me Telegram: @lil5166 Discord: Lil#5166
