@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lil5166 Student of "KPI"
-- 👀 I’m interested programming
-- 🌱 I’m currently learning the same progaramming language same as Java, Python
-- 📫 How to reach me Telegram: @lil5166 Discord: Lil#5166
+- 🌱 I’m currently learning the same progaramming language same as Java, Python, JavaScript
+- 📫 How to reach me Telegram: @lil8633 Discord: Lil#5166
   
 
 <!---
