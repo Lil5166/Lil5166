@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lil5166 Student of "KPI"
-- 🌱 I’m currently learning the same progaramming language same as Java, Python, JavaScript
+- 🌱 I’m currently learning the same progaramming language same as Java, Python, JavaScript(Nest.js and React)
 - 📫 How to reach me Telegram: @lil8633 Discord: Lil#5166
   
 
