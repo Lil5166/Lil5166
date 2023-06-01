@@ -1,4 +1,4 @@
-<code>🎓 Student: KPI / IA-11</code>
+<code>🎓 Student: KPI / IA-23</code>
 <code>⚪ Community: KPI FICE</code>
 <code>👷 Speciality: Іnformation systems and technologies</code><br>
 <code>🧑‍💻 Languages: C++, С, Java, JavaScript,</code>
