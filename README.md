@@ -4,5 +4,5 @@
 <code>🧑‍💻 Languages: Java, JavaScript, Python</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📦 Tech stack: Spring & node.js</code>
-<code>💬 telegram: [@lil8633](https://t.me/lil8633)</code>
+<code>💬 telegram: [@lil8633](https://t.me/lil8633)</code><br>
 <code>📫 [sasha_semashko@ukr.net](mailto:sasha_semashko@ukr.net)</code>
