@@ -1,3 +1,8 @@
+<h3>📊 Stats</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lil5166&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <code>🎓 Student: KPI / IA-23</code>
 <code>⚪ Community: KPI FICE</code>
 <code>👷 Speciality: Іnformation systems and technologies</code><br>
